@@ -1,5 +1,5 @@
 Authenticate Me - Phase 5
-No one has completed this Project lately, be the first!
+
 Before using the information in the body of the request, it's good practice to validate the information.
 
 You will use a package, express-validator, to validate the body of the requests for routes that expect a request body. The express-validator package has two functions, check and validationResult that are used together to validate the request body. check is a middleware function creator that checks a particular key on the request body. validationResult gathers the results of all the check middlewares that were run to determine which parts of the body are valid and invalid.
