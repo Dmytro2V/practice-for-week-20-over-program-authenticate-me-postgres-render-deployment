@@ -814,6 +814,9 @@ git push origin dev
 [http://localhost:8000/api/session]: http://localhost:8000/api/session
 [http://localhost:8000/api/csrf/restore]: http://localhost:8000/api/csrf/restore
 
+
+
+*******************************************************************
 Authenticate Me - Phase 3 - old version 
 No one has completed this Project lately, be the first!
 Now that you have finished setting up both Sequelize and the Express application, you are ready to start implementing user authentication in the backend.
